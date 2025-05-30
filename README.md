@@ -58,7 +58,7 @@ If you're interested in data storytelling, analytics roles, or collaborative opp
 
 **Justin Cole**  
 📧 justin@coleky.com  
-🌐 [LinkedIn Profile]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/justin-cole-8477b4350/) 
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/justin-cole-8477b4350/) 
 📍 Nashville, TN
 
 ---
