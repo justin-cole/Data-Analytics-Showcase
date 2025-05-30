@@ -45,7 +45,7 @@ While secondary to this portfolio, this report demonstrates my ability to work w
 
 ---
 
-## 🔗 How to View the Reports
+## How to View the Reports
 
 These `.pbix` files can be opened using **Power BI Desktop**, available free from Microsoft:  
 https://powerbi.microsoft.com/desktop/
